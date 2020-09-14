@@ -844,7 +844,7 @@ position: relative;
   }
 }
 
-@media(max-width: 575px){
+@media(max-width: 991px){
   nav.drop-down a {
       color: #204056;
       font-weight: bold;
