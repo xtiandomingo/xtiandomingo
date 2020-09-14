@@ -1007,7 +1007,7 @@ margin-bottom: 40px;
 }
 
 .section_3{
-
+  height: auto;
 }
 
 .skills-container{
@@ -1091,4 +1091,24 @@ position: relative;
       font-size: 20px;
       line-height: 1.5;
       color: #212529;
+}
+
+@media(max-width: 991px){
+  .skills-container .skills_images {
+      position: relative;
+      display: flex;
+      margin: 20px auto;
+      justify-content: center;
+      align-items: center;
+  }
+}
+
+@media(max-width: 991px){
+  .skills-container .skills_images {
+      position: relative;
+      display: flex;
+      margin: 20px auto;
+      justify-content: center;
+      align-items: center;
+  }
 }
