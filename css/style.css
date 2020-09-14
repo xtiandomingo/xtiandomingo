@@ -122,7 +122,7 @@ h3.nav01, h3.nav02 {
 
 button {
   color: #FFF;
-  /*font-size: 20px;*/
+  font-size: 20px;
   border: 1px solid #FFF;
   border-radius: 1px;
   margin: 3px;
@@ -621,7 +621,7 @@ margin-bottom: 40px;
 .portfolios-home .portfolios-home-row .portfolios-col .portfolio_grid .portfolio_content .title {
   position: relative;
   font-family: 'Anton', sans-serif;
-  /*font-size: 20px;*/
+  font-size: 20px;
   font-weight: 400;
   color: #313131;
 }
@@ -741,7 +741,7 @@ margin-bottom: 40px;
 
 .about-me-container .about_me_content p{
   position: relative;
-  /*font-size: 20px;*/
+  font-size: 20px;
   line-height: 1.5;
   padding: 20px 0px;
   color: #212529;
@@ -772,7 +772,7 @@ margin-bottom: 40px;
 
 .skills-container .skills_content p{
  position: relative;
- /*font-size: 20px;*/
+ font-size: 20px;
  line-height: 1.5;
  padding: 20px 0px;
  color: #212529;
@@ -829,7 +829,7 @@ position: relative;
 .contact_container .contact_row .contact_col p{
   position: relative;
       margin: 0px;
-      /*font-size: 20px;*/
+      font-size: 20px;
       line-height: 1.5;
       color: #212529;
 }
