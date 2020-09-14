@@ -5,8 +5,6 @@
 
 
 html {
-  font-size: 24px;
-  font-family: sans-serif;
   scroll-behavior: smooth;
 }
 
@@ -274,9 +272,7 @@ body {
     overflow: visible;
   }
 
-  html {
-    -ms-text-size-adjust: 100%;
-  }
+
 
   img {
     border: none;
